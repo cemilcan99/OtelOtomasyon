@@ -1,6 +1,6 @@
 # Otel Otomasyon Sistemi
 
-Bu proje, Dev C++ ile yazılmış basit bir otel otomasyon sistemidir. Otellerin müşteri kaydı tutma, rezervasyon yapma ve kayıt değiştirme gibi temel işlevleri içerir. Projede yer alan `OtelYonetimSistemi.exe` dosyasını doğrudan komut isteminden çalıştırabilirsiniz.
+Bu proje, Dev C++ ile yazılmış basit bir otel otomasyon sistemidir. Otellerin müşteri kaydı tutma, rezervasyon yapma ve kayıt değiştirme gibi temel işlevleri içerir. Projede yer alan `OtelYonetimSistemi.exe` dosyasını doğrudan komut sisteminden çalıştırabilirsiniz.
 
 ## Kullanım
 
